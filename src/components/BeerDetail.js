@@ -18,7 +18,7 @@ export default function BeerDetail() {
           <h1>{newData.name} </h1>
           <h2>{newData.tagline}</h2>
           <div>
-            <h4>first brewed:</h4>
+            <h4>First brewed:</h4>
             <h4>{newData.first_brewed} </h4>
           </div>
           <div>
