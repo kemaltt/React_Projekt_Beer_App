@@ -22,7 +22,7 @@ export default function BeerRandomDetail() {
           <h1>{beers.name} </h1>
           <h2>{beers.tagline}</h2>
           <div>
-            <h4>first brewed:</h4>
+            <h4>First brewed:</h4>
             <h4>{beers.first_brewed} </h4>
           </div>
           <div>
