@@ -9,7 +9,7 @@ export default function BeerDetail() {
 
   let filteredData = data.filter((el) => el._id === id);
   let newData = filteredData[0];
-  // console.log(newData);
+
   return (
     <div>
       <div className="beer_detail">
